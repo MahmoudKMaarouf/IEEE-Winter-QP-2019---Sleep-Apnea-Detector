@@ -7,5 +7,5 @@ Documentation:
 https://docs.google.com/document/d/1STz2JOTsOYmV4HnAfgA8DI2gbtvQRLoPg4Ek561Ku9c/edit?usp=sharing
 
 
-Activate program by going into Dejavu folder and executing "sudo python start.py" in terminal
+Activate program by executing "sudo python start.py" in terminal
 
