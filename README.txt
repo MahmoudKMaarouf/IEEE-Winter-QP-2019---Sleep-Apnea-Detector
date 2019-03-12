@@ -9,3 +9,8 @@ https://docs.google.com/document/d/1STz2JOTsOYmV4HnAfgA8DI2gbtvQRLoPg4Ek561Ku9c/
 
 Activate program by executing "sudo python start.py" in terminal
 
+Database already stored in 'database' folder
+
+Recording outputs to 'RECORDINGS'
+
+-Developed with Raspberry Pi 3 16 GB storage, 1 GB RAM
